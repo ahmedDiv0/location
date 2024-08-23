@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "mar da Palha",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-08-21T23:07:28.648Z",
+      "notes": "i love this country\n",
+      "position": {
+        "lat": "38.70265930723801",
+        "lng": "-9.135131835937502"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Helechosa de los Montes",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-21T23:08:04.869Z",
+      "notes": "her you are",
+      "position": {
+        "lat": "39.317300373271024",
+        "lng": "-4.855957031250001"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Cairo",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2024-08-21T23:08:31.173Z",
+      "notes": "my home",
+      "position": {
+        "lat": "30.0381887651539",
+        "lng": "31.23825073242188"
+      },
+      "id": 3
+    }
+  ]
+}
